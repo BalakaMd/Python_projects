@@ -5,11 +5,11 @@ import tracemalloc
 tracemalloc.start()
 
 OWN_Endpoint = 'https://api.openweathermap.org/data/2.5/weather'
-API_KEY = "35af522f80268a32"
+API_KEY = "@@@@"
 MY_LAT = 32.821150
 MY_LONG = 34.969876
-TG_TOKEN = "65WDf281g2qzkF4cbO74"
-CHATS_ID = [328192231793, 311314711609]
+TG_TOKEN = "@@@@"
+CHATS_ID = [USER_CHATS_ID]
 
 parameters = {
     "lat": MY_LAT,
