@@ -16,6 +16,10 @@ Quizzer is a basic quiz application that allows users to answer multiple-choice 
 
 - **Question Parsing**: Questions and answers are parsed from HTML entities to ensure proper display on the interface.
 
+## Screenshots
+
+![Screenshot 1](/screenshots/quizzer.png)
+
 ## Getting Started
 
 To run Quizzer on your local machine, follow these steps:

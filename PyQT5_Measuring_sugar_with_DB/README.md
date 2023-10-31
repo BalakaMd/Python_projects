@@ -66,8 +66,8 @@ Before you begin, ensure you have met the following requirements:
 
 ## Screenshots
 
-![Screenshot 1](https://dmytro-balakin.onrender.com/static/assets/img/portfolio/GUI/Sugar_control/1.png)
-![Screenshot 2](https://dmytro-balakin.onrender.com/static/assets/img/portfolio/GUI/Sugar_control/2.png)
+![Screenshot 1](/screenshots/MS1.png)
+![Screenshot 2](/screenshots/ms2.png)
 
 ## Contributing
 

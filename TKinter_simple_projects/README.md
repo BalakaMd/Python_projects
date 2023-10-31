@@ -51,6 +51,9 @@ Before you run the code, make sure you have the following:
 
 4. The equivalent temperature in Fahrenheit will be displayed below the input field.
    
+## Screenshots
+
+![Screenshot 1](/screenshots/temperature_converter.png)
 __________________________________________________________________________________________________________________________________________________________________________________________
 __________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -75,6 +78,10 @@ Make sure you have Python installed on your system. You can install the required
 ```bash
 pip install pytz
 ```
+
+## Screenshots
+
+![Screenshot 1](/screenshots/timeznes.png)
 
 ## Usage
 

@@ -17,6 +17,12 @@ tracks your work and break intervals.
 - Keep track of completed work and break intervals.
 - Cross-platform compatibility (requires Python and Tkinter).
 
+## Screenshots
+
+![Screenshot 1](/screenshots/pomodoro1.png)
+![Screenshot 1](/screenshots/pomodoro2.png)
+
+
 ## Getting Started
 
 1. Clone this repository to your local machine.

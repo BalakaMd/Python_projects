@@ -33,6 +33,10 @@ The game consists of the following components:
 - Score points by allowing the ball to pass your opponent's paddle.
 - The game continues until you decide to exit.
 
+## Screenshots
+
+![Screenshot 1](/screenshots/The_pong_game.png)
+
 ## Installation
 
 1. Clone this repository to your local machine:

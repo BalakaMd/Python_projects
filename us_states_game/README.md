@@ -3,6 +3,10 @@
 This Python script is a simple game that tests your knowledge of U.S. states by prompting you to guess their names.
 It uses the Turtle graphics library and pandas for data management.
 
+## Screenshots
+
+![Screenshot 1](/screenshots/us_states_game.png)
+
 ## Getting Started
 
 These instructions will help you get a copy of the project up and running on your local machine.

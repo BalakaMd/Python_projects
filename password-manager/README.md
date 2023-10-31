@@ -10,6 +10,10 @@ This is a simple Python application for managing and storing passwords securely.
 
 - **Password Retrieval:** Retrieve passwords for specific websites by searching for the website name.
 
+## Screenshots
+
+![Screenshot 1](/screenshots/password-manager.png)
+
 ## Getting Started
 
 ### Prerequisites

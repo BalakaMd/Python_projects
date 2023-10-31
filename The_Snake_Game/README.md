@@ -6,6 +6,12 @@ This is a simple Snake game written in Python using the Turtle library.
 
 This Snake game is a classic arcade game where the player controls a snake and tries to collect food to increase their score and the snake's length. The game ends if the snake collides with itself or the walls of the game board.
 
+## Screenshots
+
+![Screenshot 1](/screenshots/snake.png)
+![Screenshot 1](/screenshots/snake1.png)
+
+
 ## Dependencies
 
 To run this game, you'll need to install Python and the Turtle library. You can install the Turtle library as follows:
